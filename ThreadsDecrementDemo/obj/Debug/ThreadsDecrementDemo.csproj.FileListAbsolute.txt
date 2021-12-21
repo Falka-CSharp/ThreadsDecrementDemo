@@ -1,0 +1,8 @@
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\bin\Debug\ThreadsDecrementDemo.exe.config
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\bin\Debug\ThreadsDecrementDemo.exe
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\bin\Debug\ThreadsDecrementDemo.pdb
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\obj\Debug\ThreadsDecrementDemo.csproj.AssemblyReference.cache
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\obj\Debug\ThreadsDecrementDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\obj\Debug\ThreadsDecrementDemo.csproj.CoreCompileInputs.cache
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\obj\Debug\ThreadsDecrementDemo.exe
+C:\Users\vsh15\source\repos\ThreadsDecrementDemo\ThreadsDecrementDemo\obj\Debug\ThreadsDecrementDemo.pdb
